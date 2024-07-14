@@ -1,0 +1,7 @@
+D:\ASPNET\AWS_Example\AWS_Example\obj\Release\net8.0\PubTmp\Out\AWS_Example.exe
+D:\ASPNET\AWS_Example\AWS_Example\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\ASPNET\AWS_Example\AWS_Example\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\ASPNET\AWS_Example\AWS_Example\obj\Release\net8.0\PubTmp\Out\AWS_Example.dll
+D:\ASPNET\AWS_Example\AWS_Example\obj\Release\net8.0\PubTmp\Out\AWS_Example.deps.json
+D:\ASPNET\AWS_Example\AWS_Example\obj\Release\net8.0\PubTmp\Out\AWS_Example.runtimeconfig.json
+D:\ASPNET\AWS_Example\AWS_Example\obj\Release\net8.0\PubTmp\Out\AWS_Example.pdb
